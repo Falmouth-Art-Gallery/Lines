@@ -1,5 +1,7 @@
 # Lines
 
+1. [1st Try](https://editor.p5js.org/oscott/sketches/pYMA0ACCv) used p5js on my mac to sketch up a prototype. Using [found code](https://www.youtube.com/watch?v=0V3uYA1hafk) and asked [chatGPT](https://chat.openai.com/share/8c13a29f-f854-4dc9-8f44-97ec61777c8d) to modify and tweak it.
+
 ## Brief
 
 An exhibition about *Lines in our collection* is opening in October. We will have a physical interactive for people to draw lines, perhaps an instructional piece for our visitors. Can we come up with a simple digital interactive similar to the shadowpuppet setup we did before? 
@@ -22,3 +24,7 @@ An exhibition about *Lines in our collection* is opening in October. We will hav
 
   > [!NOTE]
   > Need more detailed spec for kit
+
+
+Thanks to
+@processing @Shiffman @CodingTrain @openai 
