@@ -1,6 +1,7 @@
 # Lines
 
 1. [1st Try](https://editor.p5js.org/oscott/sketches/pYMA0ACCv) used p5js on my mac to sketch up a prototype. Using [found code](https://www.youtube.com/watch?v=0V3uYA1hafk) and asked [chatGPT](https://chat.openai.com/share/8c13a29f-f854-4dc9-8f44-97ec61777c8d) to modify and tweak it.
+2. [2nd Method](https://editor.p5js.org/oscott/sketches/Ep_PtiCeh)
 
 ## Brief
 
